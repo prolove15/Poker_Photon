@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Scene.Management;
 
 public class BottomGameControler : MonoBehaviour {
     //public MiddleRankSender middleRankSender;
